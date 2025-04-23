@@ -1,0 +1,105 @@
+{
+    "clientes": [
+        {
+            "id": "CLI-001",
+            "nombre": "Juan",
+            "apellido": "Pérez",
+            "dni": "12345678",
+            "direccion": "Calle Principal 123",
+            "telefono": "099123456",
+            "email": "juan.perez@ejemplo.com",
+            "fechaNacimiento": "1985-07-15"
+        },
+        {
+            "id": "CLI-002",
+            "nombre": "María",
+            "apellido": "González",
+            "dni": "87654321",
+            "direccion": "Avenida Central 456",
+            "telefono": "099654321",
+            "email": "maria.gonzalez@ejemplo.com",
+            "fechaNacimiento": "1990-03-22"
+        },
+        {
+            "id": "CLI-003",
+            "nombre": "Carlos",
+            "apellido": "Rodríguez",
+            "dni": "23456789",
+            "direccion": "Plaza Mayor 789",
+            "telefono": "099789123",
+            "email": "carlos.rodriguez@ejemplo.com",
+            "fechaNacimiento": "1978-11-08"
+        },
+        {
+            "id": "CLI-004",
+            "nombre": "Ana",
+            "apellido": "Ramírez",
+            "dni": "34567890",
+            "direccion": "Calle de las Flores 101",
+            "telefono": "099321654",
+            "email": "ana.ramirez@ejemplo.com",
+            "fechaNacimiento": "1995-06-18"
+        },
+        {
+            "id": "CLI-005",
+            "nombre": "Luis",
+            "apellido": "Martínez",
+            "dni": "45678901",
+            "direccion": "Av. del Sol 202",
+            "telefono": "099654987",
+            "email": "luis.martinez@ejemplo.com",
+            "fechaNacimiento": "1980-12-05"
+        },
+        {
+            "id": "CLI-006",
+            "nombre": "Sofía",
+            "apellido": "Hernández",
+            "dni": "56789012",
+            "direccion": "Plaza de la Paz 303",
+            "telefono": "099987321",
+            "email": "sofia.hernandez@ejemplo.com",
+            "fechaNacimiento": "1993-01-10"
+        },
+        {
+            "id": "CLI-007",
+            "nombre": "Miguel",
+            "apellido": "Torres",
+            "dni": "67890123",
+            "direccion": "Parque Central 404",
+            "telefono": "099321789",
+            "email": "miguel.torres@ejemplo.com",
+            "fechaNacimiento": "1975-08-22"
+        },
+        {
+            "id": "CLI-008",
+            "nombre": "Laura",
+            "apellido": "Cruz",
+            "dni": "78901234",
+            "direccion": "Bosque Encantado 505",
+            "telefono": "099654123",
+            "email": "laura.cruz@ejemplo.com",
+            "fechaNacimiento": "1988-04-30"
+        },
+        {
+            "id": "CLI-009",
+            "nombre": "Fernando",
+            "apellido": "Morales",
+            "dni": "89012345",
+            "direccion": "Puerta del Cielo 606",
+            "telefono": "099789654",
+            "email": "fernando.morales@ejemplo.com",
+            "fechaNacimiento": "1983-09-14"
+        },
+        {
+            "id": "CLI-010",
+            "nombre": "Valeria",
+            "apellido": "Ríos",
+            "dni": "90123456",
+            "direccion": "Camino Real 707",
+            "telefono": "099123987",
+            "email": "valeria.rios@ejemplo.com",
+            "fechaNacimiento": "1997-02-27"
+        }
+    ]
+
+}

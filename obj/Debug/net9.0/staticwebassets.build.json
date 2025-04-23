@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "btc5I3xCZSJHBOzWYckvQBPOzng1eomaXP8ahqz45qQ=",
+  "Source": "TarjetasCredito_API_Rest",
+  "BasePath": "_content/TarjetasCredito_API_Rest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
