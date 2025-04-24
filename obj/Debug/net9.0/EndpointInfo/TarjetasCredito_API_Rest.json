@@ -6,6 +6,30 @@
     "version": "v1"
   },
   "paths": {
+    "/api/CargaInicial/Clientes": {
+      "get": {
+        "tags": [
+          "CargaInicial"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/CargaInicial/Tarjetas": {
+      "get": {
+        "tags": [
+          "CargaInicial"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Clientes": {
       "get": {
         "tags": [

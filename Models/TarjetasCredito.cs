@@ -9,9 +9,13 @@
         public string PIN { get; set; }
         public DateTime FechaExpiracion { get; set; }
         public bool EstaBloqueada { get; set; }
-        public List<Transaccion> Transacciones { get; set; }
+        ///public List<Transaccion> Transacciones { get; set; }
 
-        // Constructor parametrizado
+        public TarjetasCredito()
+        {
+            
+        }
+        
         public TarjetasCredito(string numeroTarjeta, string clienteId, decimal limiteCredito, decimal saldoActual,
                                string pin, DateTime fechaExpiracion, bool estaBloqueada, List<Transaccion> transacciones)
         {
@@ -22,7 +26,7 @@
             PIN = pin;
             FechaExpiracion = fechaExpiracion;
             EstaBloqueada = estaBloqueada;
-            Transacciones = transacciones;
+            //Transacciones = transacciones;
         }
 
         // Método ToString
@@ -30,8 +34,8 @@
         {
             return $"Número de Tarjeta: {NumeroTarjeta}, Cliente ID: {ClienteId}, Límite Crédito: {LimiteCredito:C}, " +
                    $"Saldo Actual: {SaldoActual:C}, Estado: {(EstaBloqueada ? "Bloqueada" : "Activa")}, " +
-                   $"Fecha Expiración: {FechaExpiracion.ToShortDateString()}, " +
-                   $"Transacciones: {Transacciones?.Count ?? 0} transacciones";
+                   $"Fecha Expiración: {FechaExpiracion.ToShortDateString()}, ";
+                  // $"Transacciones: {Transacciones?.Count ?? 0} transacciones";
         }
 
      

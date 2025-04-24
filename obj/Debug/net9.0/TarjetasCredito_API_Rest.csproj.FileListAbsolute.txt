@@ -74,3 +74,4 @@ C:\Users\josue\Documents\Ejercicios_C#\Api\ProyectoFinal_Pr3\obj\Debug\net9.0\re
 C:\Users\josue\Documents\Ejercicios_C#\Api\ProyectoFinal_Pr3\obj\Debug\net9.0\TarjetasCredito_API_Rest.pdb
 C:\Users\josue\Documents\Ejercicios_C#\Api\ProyectoFinal_Pr3\obj\Debug\net9.0\TarjetasCredito_API_Rest.genruntimeconfig.cache
 C:\Users\josue\Documents\Ejercicios_C#\Api\ProyectoFinal_Pr3\obj\Debug\net9.0\ref\TarjetasCredito_API_Rest.dll
+C:\Users\josue\Documents\Ejercicios_C#\Api\ProyectoFinal_Pr3\bin\Debug\net9.0\Data\Tarjetas.json

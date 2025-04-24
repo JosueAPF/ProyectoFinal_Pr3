@@ -1,0 +1,40 @@
+[
+
+    {
+        "numeroTarjeta": "4539-7852-3654-1289",
+        "clienteId": "CLI-001",
+        "limiteCredito": 5000.00,
+        "saldoActual": 1250.75,
+        "pin": "1234",
+        "fechaExpiracion": "2027-06-30",
+        "estaBloqueada": false
+    },
+    {
+        "numeroTarjeta": "5412-8965-2356-7894",
+        "clienteId": "CLI-001",
+        "limiteCredito": 3000.00,
+        "saldoActual": 750.25,
+        "pin": "4321",
+        "fechaExpiracion": "2026-09-30",
+        "estaBloqueada": false
+    },
+    {
+        "numeroTarjeta": "4111-1111-1111-1111",
+        "clienteId": "CLI-002",
+        "limiteCredito": 8000.00,
+        "saldoActual": 3200.50,
+        "pin": "5678",
+        "fechaExpiracion": "2028-01-31",
+        "estaBloqueada": false
+    },
+    {
+        "numeroTarjeta": "3782-822463-10005",
+        "clienteId": "CLI-003",
+        "limiteCredito": 12000.00,
+        "saldoActual": 4700.80,
+        "pin": "9876",
+        "fechaExpiracion": "2026-12-31",
+        "estaBloqueada": false
+    }
+
+]

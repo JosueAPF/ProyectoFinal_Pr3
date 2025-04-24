@@ -1,4 +1,7 @@
 ﻿using Microsoft.OpenApi.Models;
+using TarjetasCredito_API_Rest.Data;
+using TarjetasCredito_API_Rest.Models;
+using TarjetasCredito_API_Rest.Services;
 
 //using web_Api_persona.Servicios; //importa los servicios
 
@@ -10,6 +13,10 @@ builder.Services.AddControllers();
 
 // ⬇️  registras el servicio 
 //builder.Services.AddSingleton<PilaServicio>();
+
+builder.Services.AddSingleton<LecturaDatos<Clientes>>();
+builder.Services.AddSingleton<LecturaDatos<TarjetasCredito>>();
+builder.Services.AddSingleton<CargaInicialServicio>();
 
 // Configurar Swagger
 builder.Services.AddSwaggerGen(c =>

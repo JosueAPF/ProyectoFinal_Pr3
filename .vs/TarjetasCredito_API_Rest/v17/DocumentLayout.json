@@ -1,12 +1,238 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\josue\\Documents\\Ejercicios_C#\\Api\\ProyectoFinal_Pr3\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{076084E9-77C5-44F4-8EDD-89C22BAE500F}|TarjetasCredito_API_Rest.csproj|c:\\users\\josue\\documents\\ejercicios_c#\\api\\proyectofinal_pr3\\models\\tarjetascredito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076084E9-77C5-44F4-8EDD-89C22BAE500F}|TarjetasCredito_API_Rest.csproj|solutionrelative:models\\tarjetascredito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076084E9-77C5-44F4-8EDD-89C22BAE500F}|TarjetasCredito_API_Rest.csproj|c:\\users\\josue\\documents\\ejercicios_c#\\api\\proyectofinal_pr3\\models\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076084E9-77C5-44F4-8EDD-89C22BAE500F}|TarjetasCredito_API_Rest.csproj|solutionrelative:models\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076084E9-77C5-44F4-8EDD-89C22BAE500F}|TarjetasCredito_API_Rest.csproj|c:\\users\\josue\\documents\\ejercicios_c#\\api\\proyectofinal_pr3\\data\\clientes.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{076084E9-77C5-44F4-8EDD-89C22BAE500F}|TarjetasCredito_API_Rest.csproj|solutionrelative:data\\clientes.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076084E9-77C5-44F4-8EDD-89C22BAE500F}|TarjetasCredito_API_Rest.csproj|c:\\users\\josue\\documents\\ejercicios_c#\\api\\proyectofinal_pr3\\data\\tarjetas.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{076084E9-77C5-44F4-8EDD-89C22BAE500F}|TarjetasCredito_API_Rest.csproj|solutionrelative:data\\tarjetas.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076084E9-77C5-44F4-8EDD-89C22BAE500F}|TarjetasCredito_API_Rest.csproj|c:\\users\\josue\\documents\\ejercicios_c#\\api\\proyectofinal_pr3\\services\\gestorclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076084E9-77C5-44F4-8EDD-89C22BAE500F}|TarjetasCredito_API_Rest.csproj|solutionrelative:services\\gestorclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076084E9-77C5-44F4-8EDD-89C22BAE500F}|TarjetasCredito_API_Rest.csproj|c:\\users\\josue\\documents\\ejercicios_c#\\api\\proyectofinal_pr3\\services\\cargainicialservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076084E9-77C5-44F4-8EDD-89C22BAE500F}|TarjetasCredito_API_Rest.csproj|solutionrelative:services\\cargainicialservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076084E9-77C5-44F4-8EDD-89C22BAE500F}|TarjetasCredito_API_Rest.csproj|c:\\users\\josue\\documents\\ejercicios_c#\\api\\proyectofinal_pr3\\data\\lecturadatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076084E9-77C5-44F4-8EDD-89C22BAE500F}|TarjetasCredito_API_Rest.csproj|solutionrelative:data\\lecturadatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076084E9-77C5-44F4-8EDD-89C22BAE500F}|TarjetasCredito_API_Rest.csproj|c:\\users\\josue\\documents\\ejercicios_c#\\api\\proyectofinal_pr3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076084E9-77C5-44F4-8EDD-89C22BAE500F}|TarjetasCredito_API_Rest.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076084E9-77C5-44F4-8EDD-89C22BAE500F}|TarjetasCredito_API_Rest.csproj|c:\\users\\josue\\documents\\ejercicios_c#\\api\\proyectofinal_pr3\\controllers\\tarjetascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076084E9-77C5-44F4-8EDD-89C22BAE500F}|TarjetasCredito_API_Rest.csproj|solutionrelative:controllers\\tarjetascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076084E9-77C5-44F4-8EDD-89C22BAE500F}|TarjetasCredito_API_Rest.csproj|c:\\users\\josue\\documents\\ejercicios_c#\\api\\proyectofinal_pr3\\controllers\\cargainicialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076084E9-77C5-44F4-8EDD-89C22BAE500F}|TarjetasCredito_API_Rest.csproj|solutionrelative:controllers\\cargainicialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076084E9-77C5-44F4-8EDD-89C22BAE500F}|TarjetasCredito_API_Rest.csproj|c:\\users\\josue\\documents\\ejercicios_c#\\api\\proyectofinal_pr3\\models\\tipotransaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076084E9-77C5-44F4-8EDD-89C22BAE500F}|TarjetasCredito_API_Rest.csproj|solutionrelative:models\\tipotransaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076084E9-77C5-44F4-8EDD-89C22BAE500F}|TarjetasCredito_API_Rest.csproj|c:\\users\\josue\\documents\\ejercicios_c#\\api\\proyectofinal_pr3\\models\\estadocuenta .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076084E9-77C5-44F4-8EDD-89C22BAE500F}|TarjetasCredito_API_Rest.csproj|solutionrelative:models\\estadocuenta .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076084E9-77C5-44F4-8EDD-89C22BAE500F}|TarjetasCredito_API_Rest.csproj|c:\\users\\josue\\documents\\ejercicios_c#\\api\\proyectofinal_pr3\\tarjetascredito_api_rest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{076084E9-77C5-44F4-8EDD-89C22BAE500F}|TarjetasCredito_API_Rest.csproj|solutionrelative:tarjetascredito_api_rest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TarjetasController.cs",
+              "DocumentMoniker": "C:\\Users\\josue\\Documents\\Ejercicios_C#\\Api\\ProyectoFinal_Pr3\\Controllers\\TarjetasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TarjetasController.cs",
+              "ToolTip": "C:\\Users\\josue\\Documents\\Ejercicios_C#\\Api\\ProyectoFinal_Pr3\\Controllers\\TarjetasController.cs",
+              "RelativeToolTip": "Controllers\\TarjetasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T21:30:43.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TipoTransaccion.cs",
+              "DocumentMoniker": "C:\\Users\\josue\\Documents\\Ejercicios_C#\\Api\\ProyectoFinal_Pr3\\Models\\TipoTransaccion.cs",
+              "RelativeDocumentMoniker": "Models\\TipoTransaccion.cs",
+              "ToolTip": "C:\\Users\\josue\\Documents\\Ejercicios_C#\\Api\\ProyectoFinal_Pr3\\Models\\TipoTransaccion.cs",
+              "RelativeToolTip": "Models\\TipoTransaccion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T05:32:25.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Clientes.json",
+              "DocumentMoniker": "C:\\Users\\josue\\Documents\\Ejercicios_C#\\Api\\ProyectoFinal_Pr3\\Data\\Clientes.json",
+              "RelativeDocumentMoniker": "Data\\Clientes.json",
+              "ToolTip": "C:\\Users\\josue\\Documents\\Ejercicios_C#\\Api\\ProyectoFinal_Pr3\\Data\\Clientes.json",
+              "RelativeToolTip": "Data\\Clientes.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-24T05:26:44.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EstadoCuenta .cs",
+              "DocumentMoniker": "C:\\Users\\josue\\Documents\\Ejercicios_C#\\Api\\ProyectoFinal_Pr3\\Models\\EstadoCuenta .cs",
+              "RelativeDocumentMoniker": "Models\\EstadoCuenta .cs",
+              "ToolTip": "C:\\Users\\josue\\Documents\\Ejercicios_C#\\Api\\ProyectoFinal_Pr3\\Models\\EstadoCuenta .cs",
+              "RelativeToolTip": "Models\\EstadoCuenta .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T05:26:21.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tarjetas.json",
+              "DocumentMoniker": "C:\\Users\\josue\\Documents\\Ejercicios_C#\\Api\\ProyectoFinal_Pr3\\Data\\Tarjetas.json",
+              "RelativeDocumentMoniker": "Data\\Tarjetas.json",
+              "ToolTip": "C:\\Users\\josue\\Documents\\Ejercicios_C#\\Api\\ProyectoFinal_Pr3\\Data\\Tarjetas.json",
+              "RelativeToolTip": "Data\\Tarjetas.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-24T05:32:22.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TarjetasCredito.cs",
+              "DocumentMoniker": "C:\\Users\\josue\\Documents\\Ejercicios_C#\\Api\\ProyectoFinal_Pr3\\Models\\TarjetasCredito.cs",
+              "RelativeDocumentMoniker": "Models\\TarjetasCredito.cs",
+              "ToolTip": "C:\\Users\\josue\\Documents\\Ejercicios_C#\\Api\\ProyectoFinal_Pr3\\Models\\TarjetasCredito.cs",
+              "RelativeToolTip": "Models\\TarjetasCredito.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAswB8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T04:54:03.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Clientes.cs",
+              "DocumentMoniker": "C:\\Users\\josue\\Documents\\Ejercicios_C#\\Api\\ProyectoFinal_Pr3\\Models\\Clientes.cs",
+              "RelativeDocumentMoniker": "Models\\Clientes.cs",
+              "ToolTip": "C:\\Users\\josue\\Documents\\Ejercicios_C#\\Api\\ProyectoFinal_Pr3\\Models\\Clientes.cs",
+              "RelativeToolTip": "Models\\Clientes.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T04:41:47.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CargaInicialController.cs",
+              "DocumentMoniker": "C:\\Users\\josue\\Documents\\Ejercicios_C#\\Api\\ProyectoFinal_Pr3\\Controllers\\CargaInicialController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CargaInicialController.cs",
+              "ToolTip": "C:\\Users\\josue\\Documents\\Ejercicios_C#\\Api\\ProyectoFinal_Pr3\\Controllers\\CargaInicialController.cs",
+              "RelativeToolTip": "Controllers\\CargaInicialController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T03:54:25.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LecturaDatos.cs",
+              "DocumentMoniker": "C:\\Users\\josue\\Documents\\Ejercicios_C#\\Api\\ProyectoFinal_Pr3\\Data\\LecturaDatos.cs",
+              "RelativeDocumentMoniker": "Data\\LecturaDatos.cs",
+              "ToolTip": "C:\\Users\\josue\\Documents\\Ejercicios_C#\\Api\\ProyectoFinal_Pr3\\Data\\LecturaDatos.cs",
+              "RelativeToolTip": "Data\\LecturaDatos.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T03:37:20.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CargaInicialServicio.cs",
+              "DocumentMoniker": "C:\\Users\\josue\\Documents\\Ejercicios_C#\\Api\\ProyectoFinal_Pr3\\Services\\CargaInicialServicio.cs",
+              "RelativeDocumentMoniker": "Services\\CargaInicialServicio.cs",
+              "ToolTip": "C:\\Users\\josue\\Documents\\Ejercicios_C#\\Api\\ProyectoFinal_Pr3\\Services\\CargaInicialServicio.cs",
+              "RelativeToolTip": "Services\\CargaInicialServicio.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T03:30:02.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\josue\\Documents\\Ejercicios_C#\\Api\\ProyectoFinal_Pr3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\josue\\Documents\\Ejercicios_C#\\Api\\ProyectoFinal_Pr3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T03:28:26.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GestorClientes.cs",
+              "DocumentMoniker": "C:\\Users\\josue\\Documents\\Ejercicios_C#\\Api\\ProyectoFinal_Pr3\\Services\\GestorClientes.cs",
+              "RelativeDocumentMoniker": "Services\\GestorClientes.cs",
+              "ToolTip": "C:\\Users\\josue\\Documents\\Ejercicios_C#\\Api\\ProyectoFinal_Pr3\\Services\\GestorClientes.cs",
+              "RelativeToolTip": "Services\\GestorClientes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T03:27:44.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TarjetasCredito_API_Rest.csproj",
+              "DocumentMoniker": "C:\\Users\\josue\\Documents\\Ejercicios_C#\\Api\\ProyectoFinal_Pr3\\TarjetasCredito_API_Rest.csproj",
+              "RelativeDocumentMoniker": "TarjetasCredito_API_Rest.csproj",
+              "ToolTip": "C:\\Users\\josue\\Documents\\Ejercicios_C#\\Api\\ProyectoFinal_Pr3\\TarjetasCredito_API_Rest.csproj",
+              "RelativeToolTip": "TarjetasCredito_API_Rest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-23T18:05:02.826Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
